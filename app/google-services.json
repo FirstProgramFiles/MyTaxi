@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910420506094",
+    "project_id": "mytaxi-add5e",
+    "storage_bucket": "mytaxi-add5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910420506094:android:441cc1ac25e74e9ef40aff",
+        "android_client_info": {
+          "package_name": "com.example.mytaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910420506094-m0gl4cknljpl9ubdo0sruhhb8efqtb9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYpPvZ0jJGSBlV-Bkn-twjYOQvBqMvBrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910420506094-m0gl4cknljpl9ubdo0sruhhb8efqtb9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
